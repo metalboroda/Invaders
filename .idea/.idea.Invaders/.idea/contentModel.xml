@@ -7,6 +7,8 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="BorderCollision.cs" t="Include" />
+          <e p="CollisionPlayerBulletController.cs" t="Include" />
           <e p="MoveStraightController.cs" t="Include" />
           <e p="MoveToPlayerController.cs" t="Include" />
           <e p="PlayerMovementController.cs" t="Include" />
