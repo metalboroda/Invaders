@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4666338897443521711}
   - component: {fileID: 7585841489556928375}
   - component: {fileID: 1696691162673701758}
+  - component: {fileID: -4871751028387221}
   m_Layer: 0
   m_Name: BulletPlayer
   m_TagString: Bullet
@@ -134,4 +135,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f996a53f277954f449b1beb527ffed4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocity: {x: 0, y: 10}
+  velocity: {x: 0, y: 8}
+--- !u!114 &-4871751028387221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4666338897443521707}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ccc63a77ed33fc4a9bcc56bb396fbc7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
