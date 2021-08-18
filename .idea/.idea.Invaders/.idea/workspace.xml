@@ -11,12 +11,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpawnEnemyController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollisionPlayerBulletController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollisionPlayerWithEnemy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveStraightController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollisionEnemyBulletController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveToPlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyBulletAfterTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveStraightController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Background/MovableBackground.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollisionPlayerBulletController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -25,11 +24,15 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveStraightController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BorderCollision.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CollisionPlayerBulletController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CollisionEnemyBulletController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MoveToPlayerController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnBulletController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CollisionPlayerWithEnemy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpawnEnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveToPlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CollisionEnemyBulletController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyAndEnemyBulletsCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DestroyBulletAfterTime.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnBulletController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Background/MovableBackground.cs" />
       </list>
     </option>
   </component>
@@ -77,6 +80,7 @@
       <workItem from="1629205536136" duration="5734000" />
       <workItem from="1629212394830" duration="3107000" />
       <workItem from="1629221843054" duration="5770000" />
+      <workItem from="1629289537960" duration="9807000" />
     </task>
     <servers />
   </component>
@@ -87,5 +91,11 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="381" key="#Notifications" timestamp="1629289559664">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="773" y="381" key="#Notifications/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1629289559664" />
   </component>
 </project>

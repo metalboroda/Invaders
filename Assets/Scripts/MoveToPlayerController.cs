@@ -13,8 +13,6 @@ public class MoveToPlayerController : MonoBehaviour
     private void BulletToPlayerPosition()
     {
         GameObject gameObject = GameObject.FindWithTag("Player");
-        // Vector3 v3 = (gameObject.transform.position - transform.position).normalized;
-        // Vector2 v2 = new Vector2(v3.x, v3.y);
         if (gameObject != null)
         {
             Vector2 playerPos = (gameObject.transform.position - transform.position).normalized;
