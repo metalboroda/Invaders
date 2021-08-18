@@ -17,6 +17,6 @@ public class CollisionPlayerWithEnemy : MonoBehaviour
 
     private void OnDisable()
     {
-        SceneManager.LoadSceneAsync(0);
+        SceneManager.LoadSceneAsync("MainMenu");
     }
 }

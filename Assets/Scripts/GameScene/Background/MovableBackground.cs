@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MovableBackground : MonoBehaviour
 {
-    private float scrollSpeed = 6f;
+    public float scrollSpeed = 6f;
 
     private Vector2 startPos;
 

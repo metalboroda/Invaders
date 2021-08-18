@@ -1058,6 +1058,11 @@ MonoBehaviour:
   enemy2: {fileID: 1940843910266394981, guid: d45dfff93ad7a3b4088bd5b5479021eb, type: 3}
   interval: 3
   startInterval: 1
+--- !u!1 &772118114 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2223399406863628466, guid: e8c7acc5cd4c7b841b1c181982823d2d, type: 3}
+  m_PrefabInstance: {fileID: 2223399406632678914}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1069264917
 GameObject:
   m_ObjectHideFlags: 0
@@ -1201,6 +1206,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40557c49b2c3a7a4aa7780e4a97e9e9c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scrollSpeed: 6
 --- !u!1 &1115987470
 GameObject:
   m_ObjectHideFlags: 0
@@ -1614,5 +1620,13 @@ PrefabInstance:
       propertyPath: bulletSpawner
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 4350313641621185298, guid: e8c7acc5cd4c7b841b1c181982823d2d, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7989168134927054084, guid: e8c7acc5cd4c7b841b1c181982823d2d, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 772118114}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e8c7acc5cd4c7b841b1c181982823d2d, type: 3}
